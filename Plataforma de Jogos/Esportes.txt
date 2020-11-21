@@ -1,0 +1,12 @@
+﻿Jogos;Preço, Genero: Esportes 
+1 FIFA60 - ;60.00
+2 FIFA40 - ;70.00
+3  FIFAretro - ,45.00
+4 FIFAvsPes - ,200.00
+5 Fifinha20 - ,20.00
+6 SUPERFIFA - ,80.00
+7 FIFA14.1 - ,14.10
+8 FIFApirata - ,30.00
+9 FIFA60 - ,53.56
+10 FIFA23 - ,200.00
+11 FIFA00 - ,00.01
